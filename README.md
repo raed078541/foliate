@@ -1,11 +1,4 @@
-<img src="data/com.github.johnfactotum.Foliate.svg" align="left" style="margin-right:8px"> 
-<br><br>
-
-# Foliate
-
-Read books in style.
-
-![Screenshot](data/screenshots/screenshot.png)
+nshot](data/screenshots/screenshot.png)
 
 ## Installation
 
